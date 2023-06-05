@@ -1,12 +1,23 @@
-## Hi there 👋
+[Hanna van der Vlis talk at PyData](https://www.youtube.com/watch?v=pbcxb9xpTBI)
+and here are the related [slides in pdf](https://pydata.org/london2022/wp-content/uploads/2022/07/Clusterf_ck_-A-practical-guide-to-Bayesian-hierarchical-modeling-in-Pymc3.pdf?ref=morioh.com&utm_source=morioh.com)
 
-<!--
+https://www.pymc.io/projects/docs/en/v3/pymc-examples/examples/case_studies/multilevel_modeling.html
 
-**Here are some ideas to get you started:**
+# Statistical rethinking with pymc3
+https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### techtalk hierarchical models
+
+https://github.com/omarfsosa/tech-talk-hierarchical-models
+https://www.youtube.com/watch?v=38yOWMMCeMk
+
+
+### pymcon-web-series
+
+https://discourse.pymc.io/c/events/pymcon-web-series/23
+https://www.youtube.com/watch?v=ElfToZ9EBpM
+
+
+## some cool blogpost about model fitting
+
+https://discourse.mc-stan.org/t/whats-the-highest-dimensional-model-stan-can-fit-using-nuts/13160/8
