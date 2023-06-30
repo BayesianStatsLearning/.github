@@ -18,6 +18,9 @@ https://discourse.pymc.io/c/events/pymcon-web-series/23
 https://www.youtube.com/watch?v=ElfToZ9EBpM
 
 
-## some cool blogpost about model fitting
+## some cool blog post about model fitting
 
 https://discourse.mc-stan.org/t/whats-the-highest-dimensional-model-stan-can-fit-using-nuts/13160/8
+
+## Hierarchical Modeling
+https://betanalpha.github.io/assets/case_studies/hierarchical_modeling.html
